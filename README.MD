@@ -1,2 +1,2 @@
 Nesse projeto, vai ser criado um site pessoal!
-HTML
+HTML, Guilherme
